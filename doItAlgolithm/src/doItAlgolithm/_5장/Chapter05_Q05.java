@@ -44,5 +44,6 @@ class Chapter05_Q05 {
 		int x = stdIn.nextInt();
 
 		recur3(x);
+		stdIn.close();
 	}
 }

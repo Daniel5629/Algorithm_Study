@@ -24,5 +24,6 @@ class Chapter05_Q06 {
 		int n = stdIn.nextInt();
 
 		move(n, 1, 3); // 1기둥에 쌓인 n개를 3기둥에 옮김
+		stdIn.close();
 	}
 }
